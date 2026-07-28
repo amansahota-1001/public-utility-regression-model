@@ -61,7 +61,3 @@ The dataset (`AICPA_regressionAnalysisData.csv`) contains 48 monthly observation
 ├── Quiz_Week_8_9.ipynb                # analysis notebook
 └── README.md                          # this file
 ```
-
-## Notes
-- This README was generated from a PDF export of the original Colab notebook (`Quiz Week 8/9.ipynb`). If you'd like, I can also pull the raw `.ipynb` file directly for a more precise, code-verified summary.
-- Regression diagnostics in the notebook flag a large condition number for Model 1 (a possible multicollinearity indicator) — worth a closer look if you extend this analysis.
